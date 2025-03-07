@@ -5,6 +5,7 @@ public class OnlineReservation{
 
     private static boolean[] seats = new boolean[10]; // initialize an array of 10 seats, all empty
 
+    
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
